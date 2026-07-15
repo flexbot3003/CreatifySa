@@ -1,7 +1,5 @@
 window.CREATIFY_CMS = {
-  // Add these values only after the public website has been deployed.
-  // Supabase Project Settings > API
-  supabaseUrl: "",
-  supabaseAnonKey: "",
+  supabaseUrl: "https://YOUR-PROJECT-REFERENCE.supabase.co",
+  supabaseAnonKey: "sb_publishable_YOUR_KEY",
   storageBucket: "creatify-media"
 };
